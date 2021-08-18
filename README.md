@@ -1,0 +1,1 @@
+Esse arquivo irá servir de teste para eu praticar os comandos do git.
